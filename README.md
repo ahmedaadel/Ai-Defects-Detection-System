@@ -13,7 +13,8 @@ Final Presentation
 
 Simulation to the walk of products
 
-Master Branch: 
+Master Branch:
+
 Flutter mobile application to simulate Integration of our system with IoT System
 
 Contact with The Team:
