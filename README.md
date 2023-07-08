@@ -2,10 +2,15 @@
 system to detect a product and determine if its a good or defective product 
 
 Main Branch Contents:
+
 Object Detection Model
+
 Classification Model
+
 Final Documentation
+
 Final Presentation
+
 Simulation to the walk of products
 
 Master Branch: 
