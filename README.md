@@ -6,6 +6,10 @@
 ## Overview
 
 DEFECTO is an AI Defects Detection System designed for real-time detection and classification of defects in manufacturing processes. The system leverages deep learning techniques, including Classification using VGG-16 and Object Detection using MobileNet SSD, to accurately identify and categorize defects in specific products. Additionally, DEFECTO provides a mobile app for simulation, allowing manufacturers to experience the system's capabilities on embedded devices with low computation power commonly used in factories.
+main: Doumentation, Presentation, Flask, simulation of Casting products
+AI-models: Object Detection, Object Classification, Integration two models in real-time
+Mobile App: Flutter application for simulation with low computational power
+
 
 ## Key Components
 
