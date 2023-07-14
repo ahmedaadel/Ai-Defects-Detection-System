@@ -49,4 +49,13 @@ DEFECTO utilizes the following technologies:
 
 - **Flask**: The Flask framework is utilized for developing the backend of DEFECTO, providing a lightweight and flexible web server for communication between the system and the mobile app.
 
+## Contact Us
+
+ahmed291.ag@gmail.com
+ahmed.addel.48@gmail.com
+hasnaa.mounir69@gmail.com
+zeyadmaher638@gmail.com
+menatullahrashed12@gmail.com
+
+
 Thank you for considering DEFECTO for defect detection in manufacturing processes. With its real-time capabilities and advanced AI algorithms, DEFECTO aims to enhance quality control and improve overall efficiency in manufacturing.
