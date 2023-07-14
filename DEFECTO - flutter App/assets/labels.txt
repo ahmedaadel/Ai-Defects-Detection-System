@@ -1,0 +1,2 @@
+0 CastingProduct
+1 No detection
