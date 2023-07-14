@@ -13,8 +13,10 @@ The Flutter mobile app provides a user-friendly interface for simulating the beh
 Here are some screenshots of the Flutter mobile app:
 
 <img src="https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/9b25c3cb-f7c2-4965-9687-4d4897e20b71" width="300"/>
+<img src="https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/49041eeb-1719-4a6e-9310-b4030eb47d4e" width="300"/>
 <img src="https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/ca04be90-a104-4871-8244-69a4dcf95c9e" width="300"/>
-
+<img src="https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/73c93f47-8ee9-4e98-9c16-92d277fb87dc" width="300"/>
+<img src="https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/030017d4-2360-40c7-8bc9-c5973cab6d9c" width="300"/>
 
 
 ## Usage
