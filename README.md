@@ -46,7 +46,7 @@ For object classification, the VGG16 model is employed in this system. VGG16 is 
 
 ## Getting Started
 
-To start using the Real-Time Object Detection System, follow the instructions in the [Installation and Setup](#installation-and-setup) section of the README file.
+To start using the Real-Time Object Detection System, provide labeled data for specific product then train models with data and make some configurations then let system detect and classify in real time with Test_Script notebook.
 
 ## Conclusion
 
