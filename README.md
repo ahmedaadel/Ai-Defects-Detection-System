@@ -1,4 +1,4 @@
-![casting](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/9a7f45e4-757e-418c-93cc-8335ec4f129d)# AI Defects Detection System
+# AI Defects Detection System
 
 ## Overview
 
