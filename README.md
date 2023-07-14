@@ -12,13 +12,10 @@ The Flutter mobile app provides a user-friendly interface for simulating the beh
 
 Here are some screenshots of the Flutter mobile app:
 
-![1](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/c072da02-f35a-456a-820c-278e4d460ceb=20*20)
-![2](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/cdc05169-310c-4fe9-97ac-3b9523dcd783)
-![3](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/b41a427c-b8e9-4fbf-9760-fac8f1e5cc0f)
-![casting](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/3a147f98-26a2-4602-a5b0-0b1633b6ae22)
-![res](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/39a500f9-bb47-4c54-a8b5-6f872453e839)
-![not casting](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/f589dead-2b88-464a-86f4-28f19e5f8fba)
-![res2](https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/8f93a065-2b0f-4ee5-af31-507b28a71c2d)
+<img src="https://github.com/ahmedaadel/Ai-Defects-Detection-System/assets/101002059/ca04be90-a104-4871-8244-69a4dcf95c9e" alt="Upload Image Screen" width="300"/>
+<img src="screenshots/upload_video_screen_resized.png" alt="Upload Video Screen" width="300"/>
+<img src="screenshots/processing_screen_resized.png" alt="Processing Screen" width="300"/>
+<img src="screenshots/results_screen_resized.png" alt="Results Screen" width="300"/>
 
 
 ## Usage
