@@ -52,9 +52,13 @@ DEFECTO utilizes the following technologies:
 ## Contact Us
 
 ahmed291.ag@gmail.com
+
 ahmed.addel.48@gmail.com
+
 hasnaa.mounir69@gmail.com
+
 zeyadmaher638@gmail.com
+
 menatullahrashed12@gmail.com
 
 
